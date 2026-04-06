@@ -287,7 +287,7 @@ jupyter notebook notebooks/01_load_and_explore.ipynb
 
 **5. Verify the Load:**
 ```sql
-SELECT COUNT(*) FROM bank_campaigns;    -- Should return 41,118
+SELECT COUNT(*) FROM bank_campaigns;    -- Should return 41,188
 ```
 
 **6. Run SQL EDA Queries:**
